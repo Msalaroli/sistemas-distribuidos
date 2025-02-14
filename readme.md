@@ -74,10 +74,6 @@ Processo 3: Canais registrados = {1: [], 2: []}
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 ```
-
-Certifique-se de adicionar um arquivo `LICENSE` no seu repositório com o conteúdo da licença MIT. Aqui está um exemplo do conteúdo do arquivo `LICENSE`:
-
-```plaintext
 MIT License
 
 Copyright (c) 2025 Matheus Salaroli
