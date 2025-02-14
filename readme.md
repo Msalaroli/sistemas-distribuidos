@@ -80,7 +80,7 @@ Certifique-se de adicionar um arquivo `LICENSE` no seu reposit√≥rio com o conte√
 ```plaintext
 MIT License
 
-Copyright (c) 2025 Tiago Afonso
+Copyright (c) 2025 Matheus Salaroli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
